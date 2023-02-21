@@ -1,3 +1,3 @@
 # field-operations
 ## Growers app
-this is application about field operations where we can manage growers's field data.here we have planters growers.
+This is application about field operations where we can manage growers's field data. Here we have planters growers.
